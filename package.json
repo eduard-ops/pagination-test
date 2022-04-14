@@ -6,7 +6,7 @@
   "homepage": "https://eduard-ops.github.io/pagination-test",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
+    "build": "parcel build src/*.html --public-url /pagination-test/"
   },
   "repository": {
     "type": "git",
